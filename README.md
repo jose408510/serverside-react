@@ -1,2 +1,3 @@
 # serverside-react
-    ServerSide Rendering with Next in React.
+    ServerSide Rendering 
+    Simple practice understanding how Next works in react 
